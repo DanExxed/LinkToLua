@@ -5,7 +5,7 @@ const DiscordIcon = () => {
     const toast = useToast()
 
     function copy() {
-        navigator.clipboard.writeText('mattdeere#6907');
+        navigator.clipboard.writeText('AttemptingToCode#9729');
     }
 
     function success() {
