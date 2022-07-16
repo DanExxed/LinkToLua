@@ -90,7 +90,7 @@ const FAQ: NextPage = () => { {
         <AccordionIcon />
       </AccordionButton>
     <AccordionPanel pb={4}>
-      <Link href="https://mattlawz.dev" passHref><a target="_blank">I don't know, who?</a></Link>
+      <Link href="https://mattlawz.dev" passHref><a target="_blank">Xordion</a></Link>
     </AccordionPanel>
   </AccordionItem>
 
