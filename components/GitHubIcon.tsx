@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const GitHubIcon = () => {
     return (
-        <Link href="https://github.com/MattLawz/loadstringer" passHref>
+        <Link href="https://github.com/DanExxed" passHref>
             <a target="_blank">
             <IconButton aria-label="GitHub" icon={<AiFillGithub />} />
             </a>
