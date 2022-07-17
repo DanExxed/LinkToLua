@@ -65,7 +65,7 @@ const Container = ({ children }: ContainerProps) => {
                             F.A.Q.
                         </Button>
                     </Link>
-                    <Link href="https://github.com/MattLawz/loadstringer/wiki#the-offical-changelog" passHref>
+                    <Link href="rickroll.com" passHref>
                         <a target="_blank">
                         <Button
                             as="a"
